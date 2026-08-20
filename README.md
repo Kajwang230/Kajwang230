@@ -1,6 +1,6 @@
 # Hi — I'm Patience (Kajwang230) 👋
 
-Hello — this is Patience. We met at KICC. I hold a degree in IT and I'm skilled in programming, data science, AI/Machine Learning, and cybersecurity. I build practical systems and data workflows and I enjoy turning analytics into actionable products.
+Hello — I'm Patience. I hold a degree in Software Engineering and I'm skilled in programming, data science, AI/Machine Learning, and cybersecurity. I build practical systems and data workflows and I enjoy turning analytics into actionable products.
 
 - 🔭 Currently: Building product and data pipelines with a focus on reliable deployments and reproducible demos
 - 🌱 Learning: Advanced ML workflows, production MLOps, and secure systems design
