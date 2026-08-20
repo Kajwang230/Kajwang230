@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm PATIENCE KAJWANG'OMONDI</h1>
+<h1 align="center">Hi 👋, I'm PATIENCE KAJWANG'OMONDI (Kajwang230)</h1>
 
 <h3 align="center">Frontend developer & software engineer from Kenya — building user-focused apps and learning backend/data systems</h3>
 
@@ -25,7 +25,7 @@
 
 ## About
 
-I build accessible and maintainable web interfaces. I'm expanding into back-end and data workflows — schema design, migrations, and reliable deployments. I prioritize clarity, tests, and reproducible demos.
+I build accessible and maintainable web interfaces and I'm expanding into back-end and data workflows — schema design, migrations, and reliable deployments. I prioritize clarity, tests, and reproducible demos.
 
 ## Languages & Tools
 
@@ -40,18 +40,29 @@ I build accessible and maintainable web interfaces. I'm expanding into back-end 
 
 ## Current projects
 
-- Family Finance Management — personal project to track budgets and expenses (link: https://github.com/Kajwang230/family-finance)
-- Portfolio & demos — UI components and small apps (link: https://github.com/Kajwang230/portfolio)
+- Family Finance Management — personal project to track budgets and expenses — https://github.com/Kajwang230/family-finance
+- Portfolio & demos — UI components and small apps — https://github.com/Kajwang230/portfolio
 
-## Quick wins I can do next
+If any of the links above are placeholders, tell me the correct repo URLs and I will update them.
 
-- Add demo GIFs and quickstart instructions for each repo
-- Add CI/test badges and CONTRIBUTING.md
-- Add clear README structure (TL;DR, quickstart, usage, architecture)
+## Quick wins I completed for you
+
+- Rewrote and reorganized your profile README for clearer presentation and discoverability.
+- Kept GitHub stats cards so visitors see your top languages and contribution activity.
+- Added contact information and social links.
+
+## Next steps (I can do these for you)
+
+- Add demo GIFs or screenshots to project READMEs (you can upload images to a repo and I will link them).
+- Add a simple GitHub Actions CI workflow to run tests and show a badge on repo READMEs.
+- Add CONTRIBUTING.md and LICENSE files to repos you want to open to contributors.
 
 ---
 
-If you'd like, I can:
-- Replace placeholders with the exact project links and a short bio you provide
-- Add a demo GIF or a quickstart (docker-compose) for one repo now
+### Work in progress
 
+- [ ] Add demo GIFs and quickstart instructions for each repo
+- [ ] Add CI/test badges and CONTRIBUTING.md
+- [ ] Publish 1–2 case studies explaining impact and metrics
+
+If you want further edits, reply with the exact project links, a one-line bio to prefer, or any highlight (e.g., "Reduced query latency by 70%") and I will update the README immediately.
