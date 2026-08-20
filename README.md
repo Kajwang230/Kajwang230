@@ -22,7 +22,7 @@ I'm Patience. I hold a degree in Software Engineering and I'm skilled in program
 ## Notable projects (built from scratch)
 
 1. Financial Tracking Management System — personal finance & budgeting system
-2. Employee Self-Service Management System — HR features for staff self management (ESS System: https://github.com/Kajwang230/esss)
+2. Employee Self-Service Management System — HR features for staff self management
 3. Payroll System — payroll processing and reporting Experience highlights
 
 - AI Trainer: worked with ClickWorker, Handshake AI, and Mercor AI on dataset labeling and model training workflows.
@@ -46,7 +46,7 @@ I combine hands-on software development and data work with an entrepreneurial mi
 - portfolio: https://snrkjwriters.wixsite.com/snr-kj-writers-compa
 - Portfolio: https://bytestechnologies-drab.vercel.app/
 - GitHub: https://github.com/Kajwang230
-- ESS System (Employee Self-Service): https://github.com/Kajwang230/esss
+- ESS System (Employee Self-Service
 - LinkedIn: https://www.linkedin.com/in/patience-kajwang
 - Contact: kajwang230@gmail.com
 
