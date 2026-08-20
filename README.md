@@ -1,68 +1,69 @@
-<h1 align="center">Hi 👋, I'm PATIENCE KAJWANG'OMONDI (Kajwang230)</h1>
+# Hi — I'm Patience (Kajwang230) 👋
 
-<h3 align="center">Frontend developer & software engineer from Kenya — building user-focused apps and learning backend/data systems</h3>
+Hello — this is Patience. We met at KICC. I hold a degree in IT and I'm skilled in programming, data science, AI/Machine Learning, and cybersecurity. I build practical systems and data workflows and I enjoy turning analytics into actionable products.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kajwang230&label=Profile%20views&color=0e75b6&style=flat" alt="kajwang230" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kajwang230" alt="kajwang230" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/senkajwang" target="blank"><img src="https://img.shields.io/twitter/follow/senkajwang?logo=twitter&style=for-the-badge" alt="senkajwang" /></a> </p>
-
-- 🔭 I’m currently working on: **Family Finance Management Project**
-- 🌱 I’m learning: **JavaScript, Data Science & Machine Learning**
-- 🤝 I’m looking for help with: **Back-end development and data engineering**
-- 💬 Ask me about: **HTML, CSS, C, frontend development**
-- 📫 How to reach me: **kajwang230@gmail.com**
+- 🔭 Currently: Building product and data pipelines with a focus on reliable deployments and reproducible demos
+- 🌱 Learning: Advanced ML workflows, production MLOps, and secure systems design
+- 💬 Ask me about: programming, data science, ML, cybersecurity, and small-business tech
+- 📫 Contact: kajwang230@gmail.com · https://www.linkedin.com/in/patience-kajwang
+- 🔗 Portfolios: https://smartbizsolutions.com · https://bytestechnologies-drab.vercel.app
+- 🛒 E‑commerce: http://tuposite.com (live in Maseno)
 
 ---
 
-## Connect with me
+## Technical skills
 
-<p align="left">
-<a href="https://twitter.com/senkajwang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" /></a>
-<a href="https://linkedin.com/in/patience-kajwang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="linkedin" height="30" /></a>
-</p>
+- Languages & platforms: C, C++, Java, JavaScript, Node.js, Python, R
+- Databases & APIs: MongoDB, SQL, REST APIs
+- Data & BI: Power BI, SPSS, Advanced Excel, Data Analysis (Python/R)
+- Machine learning & AI: Data Science, Machine Learning, AI training (ClickWorker, Handshake AI, Mercor AI)
+- Security & networking: Cybersecurity, InfoSec, Network Engineering
+- Other: Blockchain (arbitrage trading focus), Graphic Design
 
-## About
 
-I build accessible and maintainable web interfaces and I'm expanding into back-end and data workflows — schema design, migrations, and reliable deployments. I prioritize clarity, tests, and reproducible demos.
+## Notable projects (built from scratch)
 
-## Languages & Tools
+1. Financial Tracking Management System — personal finance & budgeting system
+2. Employee Self-Service Management System — HR features for staff self management
+3. Payroll System — payroll processing and reporting
 
-- HTML · CSS · JavaScript · C
-- Git · GitHub · Docker · VS Code
+(If you want these linked to repo URLs, paste the exact repo links and I will update them.)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kajwang230&show_icons=true&locale=en&layout=compact" alt="kajwang230" /></p>
+## Experience highlights
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kajwang230&show_icons=true&locale=en" alt="kajwang230" /></p>
-
----
-
-## Current projects
-
-- Family Finance Management — personal project to track budgets and expenses — https://github.com/Kajwang230/family-finance
-- Portfolio & demos — UI components and small apps — https://github.com/Kajwang230/portfolio
-
-If any of the links above are placeholders, tell me the correct repo URLs and I will update them.
-
-## Quick wins I completed for you
-
-- Rewrote and reorganized your profile README for clearer presentation and discoverability.
-- Kept GitHub stats cards so visitors see your top languages and contribution activity.
-- Added contact information and social links.
-
-## Next steps (I can do these for you)
-
-- Add demo GIFs or screenshots to project READMEs (you can upload images to a repo and I will link them).
-- Add a simple GitHub Actions CI workflow to run tests and show a badge on repo READMEs.
-- Add CONTRIBUTING.md and LICENSE files to repos you want to open to contributors.
+- AI Trainer: worked with ClickWorker, Handshake AI, and Mercor AI on dataset labeling and model training workflows.
+- Data Annotator: contributed to ThinkVoice AI on data annotation tasks.
+- Co‑partner: SmartBiz Solutions and Byte Technologies — we build web apps and run an e-commerce site in Maseno.
 
 ---
 
-### Work in progress
+## How I work / What I bring
+
+I combine hands-on software development and data work with an entrepreneurial mindset. I deliver:
+- Readable, tested code and reproducible demos (Docker, scripts)
+- Clear documentation and quickstarts so others can run my projects
+- Practical ML/AI data pipelines with attention to data quality and privacy
+
+---
+
+## Quick links
+
+- Portfolio: https://smartbizsolutions.com
+- Portfolio: https://bytestechnologies-drab.vercel.app/
+- GitHub: https://github.com/Kajwang230
+- LinkedIn: https://www.linkedin.com/in/patience-kajwang
+- Contact: kajwang230@gmail.com
+
+---
+
+If you'd like, I can:
+- Add direct links from the Notable projects section to the corresponding repositories
+- Add demo GIFs/screenshots to project READMEs
+- Add CI/test badges to repos and a CONTRIBUTING.md or LICENSE
+
+Work in progress
 
 - [ ] Add demo GIFs and quickstart instructions for each repo
 - [ ] Add CI/test badges and CONTRIBUTING.md
 - [ ] Publish 1–2 case studies explaining impact and metrics
 
-If you want further edits, reply with the exact project links, a one-line bio to prefer, or any highlight (e.g., "Reduced query latency by 70%") and I will update the README immediately.
