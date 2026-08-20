@@ -1,13 +1,11 @@
-# Hi — I'm Patience (Kajwang230) 👋
-
-Hello — I'm Patience. I hold a degree in Software Engineering and I'm skilled in programming, data science, AI/Machine Learning, and cybersecurity. I build practical systems and data workflows and I enjoy turning analytics into actionable products.
+I'm Patience. I hold a degree in Software Engineering and I'm skilled in programming, data science, AI/Machine Learning, and cybersecurity. I build practical systems and data workflows and I enjoy turning analytics into actionable products.
 
 - 🔭 Currently: Building product and data pipelines with a focus on reliable deployments and reproducible demos
 - 🌱 Learning: Advanced ML workflows, production MLOps, and secure systems design
 - 💬 Ask me about: programming, data science, ML, cybersecurity, and small-business tech
 - 📫 Contact: kajwang230@gmail.com · https://www.linkedin.com/in/patience-kajwang
 - 🔗 Portfolios: https://smartbizsolutions.com · https://bytestechnologies-drab.vercel.app
-- 🛒 E‑commerce: http://tuposite.com (live in Maseno)
+- 🛒 E‑commerce: http://tuposite.net (live in Maseno)
 
 ---
 
@@ -25,11 +23,7 @@ Hello — I'm Patience. I hold a degree in Software Engineering and I'm skilled 
 
 1. Financial Tracking Management System — personal finance & budgeting system
 2. Employee Self-Service Management System — HR features for staff self management
-3. Payroll System — payroll processing and reporting
-
-(If you want these linked to repo URLs, paste the exact repo links and I will update them.)
-
-## Experience highlights
+3. Payroll System — payroll processing and reporting Experience highlights
 
 - AI Trainer: worked with ClickWorker, Handshake AI, and Mercor AI on dataset labeling and model training workflows.
 - Data Annotator: contributed to ThinkVoice AI on data annotation tasks.
@@ -49,6 +43,7 @@ I combine hands-on software development and data work with an entrepreneurial mi
 ## Quick links
 
 - Portfolio: https://smartbizsolutions.com
+- portfolio: https://snrkjwriters.wixsite.com/snr-kj-writers-compa
 - Portfolio: https://bytestechnologies-drab.vercel.app/
 - GitHub: https://github.com/Kajwang230
 - LinkedIn: https://www.linkedin.com/in/patience-kajwang
