@@ -1,6 +1,6 @@
 
 
-Software Engineer | Data Science | AI/ML | Cybersecurity
+Software Engineer | Data Science | AI/ML | Cybersecurity |DevOPs | Deep learning |Graphic Design & Creative Printing
 
 I build practical systems and data workflows with a focus on reliability, scalability, and reproducibility.
  🚀 Current Focus
@@ -80,8 +80,3 @@ Contributed to **ThinkVoice AI** on data annotation tasks
 | **Tech Portfolio** | [bytestechnologies-drab.vercel.app](https://bytestechnologies-drab.vercel.app) |
 | **Writing** | [snrkjwriters.wixsite.com](https://snrkjwriters.wixsite.com/snr-kj-writers-compa) |
 
----
-
-## 📊 GitHub Stats
-
-![Profile Views](https://komarev.com/ghpvc/?username=Kajwang230&color=bluev
