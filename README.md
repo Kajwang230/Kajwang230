@@ -1,20 +1,15 @@
-# Hi, I'm Patience 👋
 
-**Software Engineer | Data Science | AI/ML | Cybersecurity**
+
+Software Engineer | Data Science | AI/ML | Cybersecurity
 
 I build practical systems and data workflows with a focus on reliability, scalability, and reproducibility.
-
----
-
-## 🚀 Current Focus
+ 🚀 Current Focus
 
 - 🔭 **Building:** Product and data pipelines with reliable deployments and reproducible demos
 - 🌱 **Learning:** Advanced ML workflows, production MLOps, and secure systems design
 - 💡 **Passionate About:** End-to-end solutions that blend engineering, data, and business impact
 
----
-
-## 💬 Let's Connect
+ Let's Connect
 
 | | |
 |---|---|
@@ -22,35 +17,29 @@ I build practical systems and data workflows with a focus on reliability, scalab
 | 🔗 **LinkedIn** | [Patience Kajwang](https://www.linkedin.com/in/patience-kajwang) |
 | 🌐 **Main Portfolio** | [smartbizsolutions.com](https://smartbizsolutions.com) |
 | 💼 **Tech Portfolio** | [bytestechnologies-drab.vercel.app](https://bytestechnologies-drab.vercel.app) |
-| 🛍️ **E-commerce** | [TupoSite](http://tuposite.net) (Live in Maseno) |
+| 🛍️ **E-commerce** | [TupoSite](http://tuposite.net) (Live in Maseno) 
 
----
+ 🛠️ Technical Skills
 
-## 🛠️ Technical Skills
-
-### Languages & Platforms
+ Languages & Platforms
 `C` `C++` `Java` `JavaScript` `Node.js` `Python` `R`
 
-### Databases & APIs
+ Databases & APIs
 `MongoDB` `SQL` `REST APIs`
 
-### Data & Business Intelligence
+ Data & Business Intelligence
 `Power BI` `SPSS` `Advanced Excel` `Data Analysis (Python/R)`
-
-### Machine Learning & AI
+ Machine Learning & AI
 - Data Science & ML
 - AI Training (ClickWorker, Handshake AI, Mercor AI)
 - Model Training & Optimization
 
-### Security & Networking
+ Security & Networking
 `Cybersecurity` `InfoSec` `Network Engineering`
-
-### Additional Skills
+ Additional Skills
 `Blockchain (Arbitrage Trading)` `Graphic Design` `Docker` `Git`
 
----
-
-## 🏆 Notable Projects
+🏆 Notable Projects
 
 | Project | Description |
 |---------|-------------|
@@ -58,9 +47,7 @@ I build practical systems and data workflows with a focus on reliability, scalab
 | **Employee Self-Service Management System** | HR management system enabling staff self-service features |
 | **Payroll System** | Automated payroll processing and reporting |
 
----
-
-## 💼 Professional Experience
+💼 Professional Experience
 
 ### AI Trainer
 Worked with **ClickWorker**, **Handshake AI**, and **Mercor AI** on:
@@ -68,18 +55,15 @@ Worked with **ClickWorker**, **Handshake AI**, and **Mercor AI** on:
 - Model training workflows
 - Quality assurance for AI datasets
 
-### Data Annotator
+ Data Annotator
 Contributed to **ThinkVoice AI** on data annotation tasks
 
-### Co-Partner
+ Co-Partner
 **SmartBiz Solutions** & **Byte Technologies**
 - Web application development
 - E-commerce platform management
-- Client solutions for SMBs
-
----
-
-## 🎯 What I Bring
+- Client solutions for SMB
+ 🎯 What I Bring
 
 ✅ **Clean, tested code** with clear documentation  
 ✅ **Reproducible demos** (Docker, automation scripts)  
@@ -87,9 +71,7 @@ Contributed to **ThinkVoice AI** on data annotation tasks
 ✅ **End-to-end ownership** from concept to production  
 ✅ **Business-minded engineering** — balancing technical excellence with practical impact  
 
----
-
-## 🔗 Quick Links
+🔗 Quick Links
 
 | Platform | Link |
 |----------|------|
@@ -102,8 +84,4 @@ Contributed to **ThinkVoice AI** on data annotation tasks
 
 ## 📊 GitHub Stats
 
-![Profile Views](https://komarev.com/ghpvc/?username=Kajwang230&color=blueviolet)
-
----
-
-*Building the future, one commit at a time.* 🚀
+![Profile Views](https://komarev.com/ghpvc/?username=Kajwang230&color=bluev
