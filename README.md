@@ -36,12 +36,14 @@ I build practical systems and data workflows with a focus on reliability, scalab
 ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![R](https://img.shields.io/badge/R-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+Vue 
+Typescript
 
 ### **Databases & APIs**
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/REST%20APIs-009688?style=for-the-badge)
-
+postgress
 ### **Data & Business Intelligence**
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=white)
 ![SPSS](https://img.shields.io/badge/SPSS-120078?style=for-the-badge)
