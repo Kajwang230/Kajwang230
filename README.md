@@ -1,4 +1,4 @@
-I'm Patience. I hold a degree in Software Engineering and I'm skilled in programming, data science, AI/Machine Learning, and cybersecurity. I build practical systems and data workflows and I enjoy [...]
+I'm Patience. I hold a degree in Software Engineering and I'm skilled in programming, data science, AI/Machine Learning, and cybersecurity. I build practical systems and data workflows
 
 - 🔭 Currently: Building product and data pipelines with a focus on reliable deployments and reproducible demos
 - 🌱 Learning: Advanced ML workflows, production MLOps, and secure systems design
@@ -7,9 +7,7 @@ I'm Patience. I hold a degree in Software Engineering and I'm skilled in program
 - 🔗 Portfolios: https://smartbizsolutions.com · https://bytestechnologies-drab.vercel.app
 - 🛒 E‑commerce: http://tuposite.net (live in Maseno)
 
----
-
-## Technical skills
+ Technical skills
 
 - Languages & platforms: C, C++, Java, JavaScript, Node.js, Python, R
 - Databases & APIs: MongoDB, SQL, REST APIs
@@ -19,7 +17,7 @@ I'm Patience. I hold a degree in Software Engineering and I'm skilled in program
 - Other: Blockchain (arbitrage trading focus), Graphic Design
 
 
-## Notable projects (built from scratch)
+ Notable projects (built from scratch)
 
 1. Financial Tracking Management System — personal finance & budgeting system
 2. Employee Self-Service Management System — HR features for staff self management
@@ -29,18 +27,14 @@ I'm Patience. I hold a degree in Software Engineering and I'm skilled in program
 - Data Annotator: contributed to ThinkVoice AI on data annotation tasks.
 - Co‑partner: SmartBiz Solutions and Byte Technologies — we build web apps and run an e-commerce site in Maseno.
 
----
-
-## How I work / What I bring
+ How I work / What I bring
 
 I combine hands-on software development and data work with an entrepreneurial mindset. I deliver:
 - Readable, tested code and reproducible demos (Docker, scripts)
 - Clear documentation and quickstarts so others can run my projects
 - Practical ML/AI data pipelines with attention to data quality and privacy
 
----
-
-## Quick links
+Quick links
 
 - Portfolio: https://smartbizsolutions.com
 - portfolio: https://snrkjwriters.wixsite.com/snr-kj-writers-compa
@@ -49,16 +43,3 @@ I combine hands-on software development and data work with an entrepreneurial mi
 - ESS System (Employee Self-Service
 - LinkedIn: https://www.linkedin.com/in/patience-kajwang
 - Contact: kajwang230@gmail.com
-
----
-
-If you'd like, I can:
-- Add direct links from the Notable projects section to the corresponding repositories
-- Add demo GIFs/screenshots to project READMEs
-- Add CI/test badges to repos and a CONTRIBUTING.md or LICENSE
-
-Work in progress
-
-- [ ] Add demo GIFs and quickstart instructions for each repo
-- [ ] Add CI/test badges and CONTRIBUTING.md
-- [ ] Publish 1–2 case studies explaining impact and metrics
