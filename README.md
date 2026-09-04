@@ -17,7 +17,7 @@ I build practical systems and data workflows with a focus on reliability, scalab
 | Contact | Details |
 |---------|---------|
 | 📧 **Email** | [kajwang230@gmail.com](mailto:kajwang230@gmail.com) |
-| 🔗 **LinkedIn** | [Patience Kajwang](https://www.linkedin.com/in/patience-kajwang) |
+| 🔗 **LinkedIn** | [Patience Kajwang ( )https://www.linkedin.com/in/patience-kajwang-b239a5253?utm_source=share_via&utm_content=profile&utm_medium=member_android |
 | 🌐 **Main Portfolio** | [smartbizsolutions.com](https://smartbizsolutions.com) |
 | 💼 **Tech Portfolio** | [bytestechnologies-drab.vercel.app](https://bytestechnologies-drab.vercel.app) |
 | 🛍️ **E-commerce** | [TupoSite](http://tuposite.net) (Live in Maseno) |
