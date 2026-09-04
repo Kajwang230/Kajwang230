@@ -1,4 +1,3 @@
-y
 Software Engineer | Data Science | AI/ML | Cybersecurity | DevOps | Deep Learning | Graphic Design & Creative Printing
 
 I build practical systems and data workflows with a focus on reliability, scalability, and reproducibility.
