@@ -23,7 +23,6 @@ I build practical systems and data workflows with a focus on reliability, scalab
 | 💼 **Tech Portfolio** | [bytestechnologies-drab.vercel.app](https://bytestechnologies-drab.vercel.app) |
 | 🛍️ **E-commerce** | [TupoSite](http://tuposite.net) (Live in Maseno) |
 | 📝 **Writing** | [snrkjwriters.wixsite.com](https://snrkjwriters.wixsite.com/snr-kj-writers-compa) |
-|*Payroll System (https://docs.google.com/spreadsheets/d/1OnKLvwLF1z8T8kHOXT57J0fPlHB2HKcf/edit?usp=drivesdk&ouid=111161898665287549830&rtpof=true&sd=true) (Live in Paramax Cleaning Service limited - KICC) |
 
 ## 🛠️ Technical Skills
 
@@ -93,7 +92,23 @@ I build practical systems and data workflows with a focus on reliability, scalab
 
 <div align="center">
 
-### 🎯 **1. Financial Tracking & Management System**
+### 🎯 **1. Paramax Cleaning Services - Automated Payroll System** ⭐ **NEW**
+**`Excel` `Automation` `Finance` `HR` `Deductions`**
+
+Advanced automated payroll system for Paramax Cleaning Services (KICC) featuring intelligent deduction calculations including:
+- ✅ NSSF (National Social Security Fund) automation
+- ✅ SHA (Social Health Authority) deductions
+- ✅ Comprehensive tax calculations
+- ✅ Full employee remuneration processing
+- ✅ Automated reporting & compliance
+
+**Status:** ✨ Live in Production
+
+[📊 Access Payroll System](https://docs.google.com/spreadsheets/d/1OnKLvwLF1z8T8kHOXT57J0fPlHB2HKcf/edit?usp=drivesdk&ouid=111161898665287549830&rtpof=true&sd=true)
+
+---
+
+### 🎯 **2. Financial Tracking & Management System**
 **`JavaScript` `Node.js` `MongoDB` `Analytics` `Finance`**
 
 Personal finance and budgeting platform with advanced analytics, reporting, and financial insights for money management.
@@ -102,19 +117,10 @@ Personal finance and budgeting platform with advanced analytics, reporting, and 
 
 ---
 
-### 🎯 **2. Employee Self-Service Management System**
+### 🎯 **3. Employee Self-Service Management System**
 **`Java` `Database` `HR Systems` `Backend` `Enterprise`**
 
 Comprehensive HR management system enabling staff self-service features, leave management, and employee data handling.
-
-[🔗 View Repository](https://github.com/Kajwang230)
-
----
-
-### 🎯 **3. Payroll System**
-**`Java` `C++` `Database` `Finance` `Automation`**
-
-Automated payroll processing and reporting system for efficient salary calculations and financial compliance.
 
 [🔗 View Repository](https://github.com/Kajwang230)
 
@@ -220,12 +226,19 @@ Contributed to **ThinkVoice AI** on data annotation tasks
 - E-commerce platform management
 - Client solutions for SMBs
 
+### **💰 Payroll Systems Specialist**
+**Paramax Cleaning Services** (KICC)
+- Designed and implemented automated payroll system
+- Managed NSSF, SHA, and tax deductions
+- Ensured regulatory compliance and accuracy
+
 ---
 
 ## 🏆 Notable Achievements
 
 | Achievement | Description |
 |-------------|-------------|
+| **Payroll Automation** | Built production payroll system for Paramax Cleaning Services with full compliance |
 | **Financial Systems** | Built scalable finance tracking and payroll management systems |
 | **HR Solutions** | Developed self-service employee management platform |
 | **Responsive Design** | Created multiple responsive websites optimized for all devices |
@@ -241,6 +254,7 @@ Contributed to **ThinkVoice AI** on data annotation tasks
 ✅ **Data-driven solutions** with attention to quality and privacy  
 ✅ **End-to-end ownership** from concept to production  
 ✅ **Business-minded engineering** — balancing technical excellence with practical impact  
+✅ **Real-world implementations** — production systems like Paramax Payroll System  
 
 ---
 
@@ -253,6 +267,7 @@ Contributed to **ThinkVoice AI** on data annotation tasks
 | **Tech Portfolio** | [bytestechnologies-drab.vercel.app](https://bytestechnologies-drab.vercel.app) |
 | **E-commerce** | [tuposite.net](http://tuposite.net) |
 | **Writing** | [snrkjwriters.wixsite.com](https://snrkjwriters.wixsite.com/snr-kj-writers-compa) |
+| **Payroll System** | [Paramax Cleaning Services - Live](https://docs.google.com/spreadsheets/d/1OnKLvwLF1z8T8kHOXT57J0fPlHB2HKcf/edit?usp=drivesdk&ouid=111161898665287549830&rtpof=true&sd=true) |
 
 ---
 
@@ -260,6 +275,6 @@ Contributed to **ThinkVoice AI** on data annotation tasks
 
 ### ⭐ Open to collaborations, freelance work, and exciting tech challenges!
 
-*Last Updated: August 2026*
+*Last Updated: September 2026*
 
 </div>
