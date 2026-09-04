@@ -1,0 +1,233 @@
+# Environment Variables
+.env
+.env.local
+.env.*.local
+.env.production.local
+.env.development.local
+.env.test.local
+
+# API Keys & Secrets
+*.key
+*.pem
+*.p8
+*.p12
+*.pfx
+.aws/
+.gcp/
+secrets/
+credentials/
+
+# IDE & Editor Files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+.project
+.classpath
+.c9/
+*.sublime-workspace
+*.sublime-project
+.history/
+
+# Node.js
+node_modules/
+npm-debug.log
+npm-error.log
+yarn-error.log
+yarn-debug.log
+package-lock.json
+pnpm-lock.yaml
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+.venv/
+venv/
+ENV/
+env/
+.venv
+pipenv.lock
+
+# Java
+*.class
+*.jar
+*.war
+*.ear
+*.zip
+target/
+.classpath
+.project
+.settings/
+.springBeans
+.sts4-cache/
+.gradle/
+build/
+out/
+.idea/
+*.iml
+
+# Ruby
+Gemfile.lock
+.bundle/
+vendor/bundle/
+
+# PHP
+composer.lock
+vendor/
+
+# C/C++
+*.o
+*.a
+*.so
+*.dylib
+*.exe
+*.out
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Go
+/bin
+/pkg
+*.test
+*.out
+
+# Rust
+/target
+Cargo.lock
+
+# Database Files
+*.db
+*.sqlite
+*.sqlite3
+*.mdb
+*.dbf
+
+# Logs
+*.log
+logs/
+*.log.*
+
+# Temporary Files
+*.tmp
+*.temp
+tmp/
+temp/
+
+# OS Files
+.DS_Store
+Thumbs.db
+.directory
+ehthumbs.db
+
+# Build Artifacts
+/build
+/dist
+/out
+*.min.js
+*.min.css
+
+# Configuration Files (with sensitive data)
+config.local.js
+config.production.js
+settings.local.py
+secrets.yml
+.htaccess
+
+# Docker
+.docker/
+docker-compose.override.yml
+
+# Git
+.git/hooks/
+
+# Backup Files
+*.bak
+*.backup
+*.swp
+*~
+
+# OS-specific
+._*
+.AppleDouble
+.LSOverride
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+
+# Windows
+ehthumbs.db
+Desktop.ini
+
+# IntelliJ
+*.iws
+*.ipr
+
+# Visual Studio
+.vs/
+.vscode/settings.json
+.vscode/launch.json
+
+# Compiled Files
+*.pyc
+*.pyo
+*.pyd
+
+# Test Coverage
+.coverage
+htmlcov/
+.pytest_cache/
+coverage/
+
+# Bundle
+.bundle/
+.gems
+
+# Misc
+.env.*.local
+.cache
+.parcel-cache
+.next
+out
+
+# Security Scanning Results (optional - scan but don't commit results)
+dependency-check-report/
+trivy-report/
+snyk-report/
+
+# Private Documentation
+PRIVATE_NOTES.md
+INTERNAL.md
+TODO_SECRET.md
+
+# Generated Files (if sensitive)
+MANIFEST.in
+setup.cfg
+
+# Never commit these
+!.gitkeep
