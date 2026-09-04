@@ -1,4 +1,4 @@
-
+y
 Software Engineer | Data Science | AI/ML | Cybersecurity | DevOps | Deep Learning | Graphic Design & Creative Printing
 
 I build practical systems and data workflows with a focus on reliability, scalability, and reproducibility.
@@ -23,8 +23,7 @@ I build practical systems and data workflows with a focus on reliability, scalab
 | 💼 **Tech Portfolio** | [bytestechnologies-drab.vercel.app](https://bytestechnologies-drab.vercel.app) |
 | 🛍️ **E-commerce** | [TupoSite](http://tuposite.net) (Live in Maseno) |
 | 📝 **Writing** | [snrkjwriters.wixsite.com](https://snrkjwriters.wixsite.com/snr-kj-writers-compa) |
-
----
+|*Payroll System (https://docs.google.com/spreadsheets/d/1OnKLvwLF1z8T8kHOXT57J0fPlHB2HKcf/edit?usp=drivesdk&ouid=111161898665287549830&rtpof=true&sd=true) (Live in Paramax Cleaning Service limited - KICC) |
 
 ## 🛠️ Technical Skills
 
