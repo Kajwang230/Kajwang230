@@ -1,6 +1,6 @@
 # Patience Kajwang Omondi
 
-Software developer and data-focused technologist working across front-end development, data workflows, AI training support, and small-business technology solutions. I build practical systems, improve digital workflows, and support business growth through technology, design, and data-driven thinking.
+Security-focused technology professional with expertise in cybersecurity, networking, full-stack development, data analysis, and process automation. I build secure, efficient digital systems while also creating visual content, branding assets, and digital marketing strategies that help businesses grow. With experience in network engineering, information security, Python/SQL analytics, JavaScript/PHP development, graphic design, content creation, and digital brand strategy, I combine technical depth with creativity to deliver practical, impactful solutions across technology and digital media.
 
 ## Social and professional links
 
