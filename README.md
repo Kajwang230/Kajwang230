@@ -1,6 +1,6 @@
 # Patience Kajwang Omondi
 
-Software developer and data-focused technologist working across front-end development, data workflows, AI training support, and small-business technology solutions. I build practical systems, improve digital operations, and support business systems with clear, maintainable technology.
+Software developer and data-focused technologist working across front-end development, data workflows, AI training support, and small-business technology solutions. I build practical systems, improve digital workflows, and support business growth through technology, design, and data-driven thinking.
 
 ## Social and professional links
 
@@ -12,6 +12,12 @@ Software developer and data-focused technologist working across front-end develo
 - Tech portfolio: [Byte Technologies](https://bytestechnologies-drab.vercel.app/)
 - E-commerce platform: [Tuposite](http://tuposite.net/)
 - Writing website: [SNR KJ Writers Company](https://snrkjwriters.wixsite.com/snr-kj-writers-compa)
+
+## Professional titles
+
+- Founder & Digital Content Creator
+- Graphic Designer
+- Digital Marketing Specialist
 
 ## GitHub overview
 
@@ -84,11 +90,17 @@ Software developer and data-focused technologist working across front-end develo
 [![Blockchain](https://img.shields.io/badge/Blockchain-121D33?style=for-the-badge)](https://en.wikipedia.org/wiki/Blockchain)
 [![Graphic Design](https://img.shields.io/badge/Graphic_Design-FF7F50?style=for-the-badge)](https://www.adobe.com/creativecloud/design.html)
 
+### Professional skill set
+
+- Web Development: JavaScript, Python, PHP, SQL
+- Data Analysis & Reporting: Excel, Power BI
+- Design Tools: Canva, Figma
+
 ## Featured projects
 
 ### Paramax Cleaning Services — Automated Payroll System
 
-A payroll support system built around automated calculations, salary preparation, NSSF and SHA deductions, tax calculations, employee remuneration, and payroll reporting. The work preserved a spreadsheet-based workflow used for operational payroll processing and reporting accuracy.
+A payroll support system built around automated calculations, salary preparation, NSSF and SHA deductions, tax calculations, employee remuneration, and payroll reporting. The work preserved a spreadsheet-based payroll workflow while improving clarity, accuracy, and operational efficiency.
 
 - Project link: [Google Sheets payroll workbook](https://docs.google.com/spreadsheets/d/1OnKLvwLF1z8T8kHOXT57J0fPlHB2HKcf/edit?usp=drivesdk&ouid=111161898665287549830&rtpof=true&sd=true)
 - Role: Payroll Systems Specialist
@@ -131,7 +143,7 @@ A PHP-based e-commerce project representing retail and online selling workflows 
 
 ### Project references requiring verification
 
-The following project references were identified from earlier profile content and public account activity but did not have a verified public repository URL available in the accessible GitHub records:
+The following project references were identified from earlier profile content and public account activity but did not have a verified public repository URL available in the accessible GitHub record at the time of update.
 
 - Financial Tracking & Management System
 - Employee Self-Service Management System
@@ -142,19 +154,41 @@ These items were preserved in the portfolio narrative without inventing a reposi
 
 ### AI Trainer — ClickWorker, Handshake AI, and Mercor AI
 
-Worked on data labeling, annotation, and model-training support workflows. Responsibilities included reviewing datasets, annotating content for training tasks, maintaining quality, and supporting the preparation of high-quality AI training data.
+Worked on data labeling, annotation, and model-training support workflows. Responsibilities included reviewing datasets, annotating content for training tasks, maintaining quality, and supporting improved AI and ML data preparation activities.
+
+### Founder — OGTech Designs and Channels (Feb 2025–Present)
+
+Leads OGTech Designs and Channels with a focus on digital content creation, graphic design, brand presentation, and creative digital communication for businesses and personal brands.
+
+### Digital Marketing Strategist & Creative Designer — Social Fly Global Marketing Agency (Feb 2026–Present)
+
+Supports digital campaigns, visual content, creative direction, and marketing strategy to enhance brand visibility, audience engagement, and online growth.
 
 ### Data Annotator — ThinkVoice AI
 
 Contributed to data annotation work by preparing and reviewing labeled examples for AI and machine-learning workflows. The role emphasized accuracy, consistency, and quality control in data preparation.
 
+### Data Annotator — AI Speech & Language Model, ThinkVoice AI (Jul 2025–Sep 2025)
+
+Annotated speech and language dataset examples to support AI model training, with a focus on quality assurance, consistency, and accurate labeling workflows.
+
 ### Co-Partner — SmartBiz Solutions & Byte Technologies
 
-Collaborated on web application development, digital business support, e-commerce work, and technology solutions for small and medium-sized businesses. This work included front-end support, business technology services, and practical digital support tied to client needs.
+Collaborated on web application development, digital business support, e-commerce work, and technology solutions for small and medium-sized businesses. This work included front-end support, business technology planning, and digital product development.
+
+- Co-Partner, SmartBiz Solutions & Byte Technologies (Mar 2024–Present) — Co-developed Tuposite (tuposite.net)
+
+### Content Review Associate — Capterra (Jun 2025–Present)
+
+Reviews and evaluates software and digital tools to support accurate, helpful, and user-focused content for technology discovery and decision-making.
+
+### ICT Intern — Maseno University (Jan 2024–Dec 2024)
+
+Supported information and communication technology tasks, practical technical work, and digital systems support within a university environment.
 
 ### Payroll Systems Specialist — Paramax Cleaning Services (KICC)
 
-Supported payroll processes through automated calculations, deduction handling, tax preparation, and reporting for employee remuneration. The work covered NSSF deductions, SHA contributions, tax calculations, payroll accuracy, and operational reporting associated with a spreadsheet-driven payroll system.
+Supported payroll processes through automated calculations, deduction handling, tax preparation, and reporting for employee remuneration. The work covered NSSF deductions, SHA contributions, tax calculations, and payroll records for operational accuracy.
 
 ## Contributions and achievements
 
@@ -162,10 +196,21 @@ Supported payroll processes through automated calculations, deduction handling, 
 - Front-end and business technology support through SmartBiz Solutions and Byte Technologies.
 - Payroll automation and reporting support for Paramax Cleaning Services.
 - Personal practice and portfolio work focused on responsive websites, web interfaces, and practical front-end development.
+- Founder-led creative and digital content work through OGTech Designs and Channels.
+- Digital marketing and creative design support through Social Fly Global Marketing Agency.
 
 ## Education
 
 - Bachelor of Science in Computer Science — Second Class Upper Division
+- B.Sc. Information & Communication Technology — Maseno University (Second Class Upper Division)
+
+### Certifications
+
+- Cisco IT Hardware
+- Cisco Network Security
+- Cisco Web Development
+- freeCodeCamp Responsive Web Design
+- freeCodeCamp JavaScript Algorithms
 
 ## Contact information
 
