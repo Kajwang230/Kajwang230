@@ -59,6 +59,10 @@ AI training and data annotation work through platforms including ClickWorker, Ha
 ### Co-Partner — SmartBiz Solutions & Byte Technologies
 Front-end and business technology support work connected with SmartBiz Solutions and Byte Technologies.
 
+### Business and Partnership Context
+- SmartBiz Solutions & Byte Technologies — business and technology collaboration involving co-partner work and frontend/business technology support.
+- Technology portfolio and business support work connected with partner-led digital projects and small business technology solutions.
+
 ### Payroll Systems Specialist — Paramax Cleaning Services
 Project work related to payroll and operational tracking for Paramax Cleaning Services, including deductions and reporting logic for a spreadsheet-based payroll workflow.
 
