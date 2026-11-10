@@ -6,7 +6,7 @@
 
 **Building practical software and intelligent digital solutions—with an interest in AI, connected systems, infrastructure automation, and digital transformation.**
 
-[Nairobi, Kenya](https://www.google.com/maps/search/?api=1&query=Nairobi%2C+Kenya) · [Portfolio](https://smartbizsolutions.com/) · [LinkedIn](https://www.linkedin.com/in/patience-kajwang-b239a5253) · [Email](mailto:kajwang230@gmail.com)
+Nairobi, Kenya · [SnrKJ Digital Solutions](https://kajwang230.wixsite.com/snrkj-digital-soluti) · [LinkedIn](https://www.linkedin.com/in/patience-kajwang-b239a5253) · [Email](mailto:kajwang230@gmail.com)
 
 </div>
 
@@ -26,6 +26,26 @@ My professional experience includes ICT support, payroll systems, content review
 - Network engineering, infrastructure, and security
 - DevOps, automation, cloud computing, and deployment
 - Digital entrepreneurship, design, and technology-enabled business solutions
+
+## My Company – SnrKJ Digital Solutions
+
+**SnrKJ Digital Solutions** is my primary technology company and entrepreneurial venture. As **Founder & CEO**, I’m building a technology-driven digital solutions provider with interests across software, intelligent technologies, infrastructure, and creative digital services.
+
+[![Visit SnrKJ Digital Solutions](https://img.shields.io/badge/Explore_SnrKJ_Digital_Solutions-Visit_Official_Website-0F766E?style=for-the-badge&logo=googlechrome&logoColor=white)](https://kajwang230.wixsite.com/snrkj-digital-soluti)
+
+**Our service areas include:**
+
+- Software and web development
+- Artificial intelligence and machine learning
+- Data analytics and digital intelligence
+- Network engineering and infrastructure
+- Cybersecurity and network security
+- DevOps and cloud solutions
+- IT consulting and digital transformation
+- Graphic design, branding, and digital marketing
+- Business technology solutions
+
+Clients, businesses, and organizations are invited to [explore the official SnrKJ Digital Solutions website](https://kajwang230.wixsite.com/snrkj-digital-soluti) to learn more about the company and its digital solutions.
 
 ## Technical toolkit
 
@@ -111,6 +131,7 @@ My public repositories demonstrate front-end work with **HTML, CSS, and JavaScri
 
 *Role descriptions below reflect the positions shared in my profile and avoid unverified dates or quantified claims.*
 
+- **Founder & CEO — SnrKJ Digital Solutions** · Leading my primary technology company and entrepreneurial venture.
 - **Founder — OGTech Designs and Channels** · Digital creative and entrepreneurial initiative.
 - **Digital Marketing Strategist and Creative Designer — Social Fly Global Marketing Agency** · Digital marketing and creative design role.
 - **Co-Partner — SmartBiz Solutions and Byte Technologies** · Entrepreneurial technology and digital-solutions initiatives.
@@ -123,14 +144,14 @@ My public repositories demonstrate front-end work with **HTML, CSS, and JavaScri
 
 | Platform | Focus |
 | --- | --- |
+| [SnrKJ Digital Solutions](https://kajwang230.wixsite.com/snrkj-digital-soluti) | Primary technology company and digital solutions portfolio |
 | [SmartBiz Solutions](https://smartbizsolutions.com/) | Business and digital solutions |
 | [Byte Technologies](https://bytestechnologies-drab.vercel.app/) | Technology initiative |
 | [Tuposite](http://tuposite.net/) | Digital commerce platform |
-| [SNR KJ Writers Company](https://snrkjwriters.wixsite.com/snr-kj-writers-compa) | Writing and content platform |
 
 ## Featured projects
 
-These selections are based on the public repositories available on my profile. Project descriptions and technology labels are limited to what repository metadata and files support. I haven’t added external screenshots or unverified demo URLs.
+These selections are based on the public repositories available on my profile. Project descriptions and technology labels are limited to what repository metadata and files support. I haven’t added external screenshots or unverified demo URLs. These examples demonstrate front-end and web capabilities relevant to SnrKJ Digital Solutions’ software and web development interests.
 
 ### [Responsive-website-project](https://github.com/Kajwang230/Responsive-website-project)
 A responsive website project described in its repository as a Homeboyz Man webpage. Its public files include an HTML page, stylesheet, and JavaScript file.
@@ -169,11 +190,11 @@ A browser-based digital clock project. The repository includes an HTML file with
 [![GitHub](https://img.shields.io/badge/GitHub-Kajwang230-181717?style=flat-square&logo=github)](https://github.com/Kajwang230)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patience-kajwang-b239a5253)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:kajwang230@gmail.com)
-[![Website](https://img.shields.io/badge/Website-SmartBiz-008C95?style=flat-square&logo=googlechrome&logoColor=white)](https://smartbizsolutions.com/)
+[![SnrKJ Digital Solutions](https://img.shields.io/badge/Company-SnrKJ_Digital_Solutions-0F766E?style=flat-square&logo=googlechrome&logoColor=white)](https://kajwang230.wixsite.com/snrkj-digital-soluti)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Message-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/254768201856)
 
 <div align="center">
 
-*Open to meaningful collaboration on software, AI, data, infrastructure, and digital solutions.*
+*For clients, businesses, and organizations: explore [SnrKJ Digital Solutions](https://kajwang230.wixsite.com/snrkj-digital-soluti) to discover our digital services and solutions.*
 
 </div>
