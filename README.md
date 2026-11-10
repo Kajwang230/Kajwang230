@@ -1,227 +1,179 @@
-# Patience Kajwang Omondi
+<div align="center">
 
-Security-focused technology professional with expertise in cybersecurity, networking, full-stack development, data analysis, and process automation. I build secure, efficient digital systems while also creating visual content, branding assets, and digital marketing strategies that help businesses grow. With experience in network engineering, information security, Python/SQL analytics, JavaScript/PHP development, graphic design, content creation, and digital brand strategy, I combine technical depth with creativity to deliver practical, impactful solutions across technology and digital media.
+# Patience Kajwang’ Omondi
 
-## Social and professional links
+### Software Developer · AI & Machine Learning Enthusiast · Data Analyst · Network & DevOps Engineer
 
-- GitHub: [Kajwang230](https://github.com/Kajwang230)
-- LinkedIn: [Patience Kajwang](https://www.linkedin.com/in/patience-kajwang-b239a5253)
-- WhatsApp: [Chat on WhatsApp](https://wa.me/254768201856)
-- Email: [kajwang230@gmail.com](mailto:kajwang230@gmail.com)
-- Main portfolio: [SmartBiz Solutions](https://smartbizsolutions.com/)
-- Tech portfolio: [Byte Technologies](https://bytestechnologies-drab.vercel.app/)
-- E-commerce platform: [Tuposite](http://tuposite.net/)
-- Writing website: [SNR KJ Writers Company](https://snrkjwriters.wixsite.com/snr-kj-writers-compa)
+**Building practical software and intelligent digital solutions—with an interest in AI, connected systems, infrastructure automation, and digital transformation.**
 
-## Professional titles
+[Nairobi, Kenya](https://www.google.com/maps/search/?api=1&query=Nairobi%2C+Kenya) · [Portfolio](https://smartbizsolutions.com/) · [LinkedIn](https://www.linkedin.com/in/patience-kajwang-b239a5253) · [Email](mailto:kajwang230@gmail.com)
 
-- Founder & Digital Content Creator
-- Graphic Designer
-- Digital Marketing Specialist
-
-## GitHub overview
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=kajwang230&show_icons=true&theme=github_dark&hide_border=true" alt="Kajwang230 GitHub stats" />
 </div>
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kajwang230&layout=compact&theme=github_dark&hide_border=true" alt="Kajwang230 top languages" />
-</div>
+---
 
-## Technical skills
+## About me
 
-### Programming languages and platforms
+I’m a technology professional and digital entrepreneur interested in creating useful, scalable solutions to real-world needs. My work and interests span software and web development, AI data workflows, analytics, networking, infrastructure, and creative digital services. I enjoy connecting technical problem-solving with clear design and practical outcomes for people and businesses.
 
-[![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
-[![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)](https://www.r-project.org/)
-[![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)](https://vuejs.org/)
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+My professional experience includes ICT support, payroll systems, content review, AI training and data annotation, digital marketing, creative design, and entrepreneurial technology initiatives. Alongside that work, I continue to build my software engineering practice and explore intelligent systems, cloud technologies, DevOps, and cybersecurity.
 
-### Java frameworks and tooling
+**Areas I’m focused on:**
 
-[![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)](https://spring.io/projects/spring-boot)
-[![Spring Framework](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](https://spring.io/projects/spring-framework)
-[![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)](https://hibernate.org/)
-[![Apache Maven](https://img.shields.io/badge/Apache_Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)](https://maven.apache.org/)
-[![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)](https://gradle.org/)
-[![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)](https://junit.org/)
-[![Jakarta EE](https://img.shields.io/badge/Jakarta_EE-5C7AEA?style=for-the-badge&logo=jakarta&logoColor=white)](https://jakarta.ee/)
+- Software engineering, web development, and digital product development
+- Artificial intelligence, machine learning, and data annotation
+- Data science, analytics, and visualization
+- Network engineering, infrastructure, and security
+- DevOps, automation, cloud computing, and deployment
+- Digital entrepreneurship, design, and technology-enabled business solutions
 
-### Python, data, and AI technologies
+## Technical toolkit
 
-[![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)](https://www.djangoproject.com/)
-[![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
-[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
-[![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
-[![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
-[![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://streamlit.io/)
-[![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)](https://plotly.com/)
-[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
-[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org/)
-[![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
-[![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)
-[![SPSS](https://img.shields.io/badge/SPSS-5A5A5A?style=for-the-badge&logo=microsoft&logoColor=white)](https://www.ibm.com/products/spss-statistics)
-[![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/excel)
+My public repositories demonstrate front-end work with **HTML, CSS, and JavaScript**. My professional background and stated areas of practice also span data, AI annotation, ICT, networking, and creative digital work. The badges below represent tools and topics I work with or am actively developing; they are not intended to imply equal depth in every technology.
 
-### Databases, APIs, and infrastructure
+### Programming languages
 
-[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
-[![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)](https://en.wikipedia.org/wiki/SQL)
-[![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://restfulapi.net/)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
-[![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
 
-### Security, business technology, and design
+### Software & web development
 
-[![Cybersecurity](https://img.shields.io/badge/Cybersecurity-008CFF?style=for-the-badge)](https://www.cisco.com/c/en/us/products/security/what-is-cybersecurity.html)
-[![Information Security](https://img.shields.io/badge/Information_Security-6C63FF?style=for-the-badge)](https://www.ibm.com/topics/information-security)
-[![Network Engineering](https://img.shields.io/badge/Network_Engineering-333333?style=for-the-badge)](https://www.cloudflare.com/learning/network-layer/what-is-networking/)
-[![Blockchain](https://img.shields.io/badge/Blockchain-121D33?style=for-the-badge)](https://en.wikipedia.org/wiki/Blockchain)
-[![Graphic Design](https://img.shields.io/badge/Graphic_Design-FF7F50?style=for-the-badge)](https://www.adobe.com/creativecloud/design.html)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-425563?style=flat-square&logo=postman&logoColor=white)
 
-### Professional skill set
+### AI, machine learning & data
 
-- Web Development: JavaScript, Python, PHP, SQL
-- Data Analysis & Reporting: Excel, Power BI
-- Design Tools: Canva, Figma
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-5B6C8F?style=flat-square)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-4051B5?style=flat-square)
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-6A4C93?style=flat-square)
+![Generative AI](https://img.shields.io/badge/Generative_AI-7B61FF?style=flat-square)
+![Data Annotation](https://img.shields.io/badge/Data_Annotation-008C95?style=flat-square)
 
-## Featured projects
+### Data science & analytics
 
-### Paramax Cleaning Services — Automated Payroll System
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Microsoft Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+![SPSS](https://img.shields.io/badge/SPSS-052FAD?style=flat-square&logo=ibm&logoColor=white)
+![Data visualization](https://img.shields.io/badge/Data_Visualization-008C95?style=flat-square)
+![Statistical analysis](https://img.shields.io/badge/Statistical_Analysis-455A64?style=flat-square)
 
-A payroll support system built around automated calculations, salary preparation, NSSF and SHA deductions, tax calculations, employee remuneration, and payroll reporting. The work preserved a spreadsheet-based payroll workflow while improving clarity, accuracy, and operational efficiency.
+### Networking, security & infrastructure
 
-- Project link: [Google Sheets payroll workbook](https://docs.google.com/spreadsheets/d/1OnKLvwLF1z8T8kHOXT57J0fPlHB2HKcf/edit?usp=drivesdk&ouid=111161898665287549830&rtpof=true&sd=true)
-- Role: Payroll Systems Specialist
-- Context: Paramax Cleaning Services (KICC)
+![TCP/IP](https://img.shields.io/badge/TCP%2FIP-1F6FEB?style=flat-square)
+![LAN/WAN](https://img.shields.io/badge/LAN%2FWAN-167D9A?style=flat-square)
+![Routing & switching](https://img.shields.io/badge/Routing_%26_Switching-167D9A?style=flat-square)
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Network security](https://img.shields.io/badge/Network_Security-264653?style=flat-square)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-264653?style=flat-square)
+![Network troubleshooting](https://img.shields.io/badge/Network_Troubleshooting-457B9D?style=flat-square)
 
-### Digital Clock Application
+### DevOps, cloud & databases
 
-A small JavaScript project that displays the live time in a clean, readable interface and reinforces front-end fundamentals such as DOM updates, time formatting, and browser-based interactivity.
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Cloud computing](https://img.shields.io/badge/Cloud_Computing-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Automation](https://img.shields.io/badge/Infrastructure_Automation-566573?style=flat-square)
+![Deployment](https://img.shields.io/badge/Application_Deployment-008C95?style=flat-square)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
-- Repository: [Digital-clock](https://github.com/Kajwang230/Digital-clock)
-- Repository: [digital-clocks](https://github.com/Kajwang230/digital-clocks)
+### Creative & digital tools
 
-### MyResponsiveWebsite
-
-A mobile-friendly responsive website built with HTML and CSS to demonstrate layout adaptation across different screen sizes and simple front-end design practices.
-
-- Repository: [MyResponsiveWebsite](https://github.com/Kajwang230/MyResponsiveWebsite)
-
-### Responsive Web Design Project
-
-A front-end practice project focused on structure, layout, and responsive design patterns for different screen widths and device sizes.
-
-- Repository: [Responsive-web-design](https://github.com/Kajwang230/Responsive-web-design)
-- Repository: [Responsive-website-project](https://github.com/Kajwang230/Responsive-website-project)
-- Repository: [Responsive-website](https://github.com/Kajwang230/Responsive-website)
-
-### PHP E-commerce System
-
-A PHP-based e-commerce project representing retail and online selling workflows in a practical web application context.
-
-- Repository: [esss](https://github.com/Kajwang230/esss)
-
-## Other projects
-
-- [demo-repo](https://github.com/Kajwang230/demo-repo) — simple HTML/CSS demo and learning repository.
-- [skills-introduction-to-github](https://github.com/Kajwang230/skills-introduction-to-github) — GitHub workflow and repository practice project.
-- [my-awesome-project-](https://github.com/Kajwang230/my-awesome-project-) — personal project placeholder and practice repository.
-- [Digital-Time](https://github.com/Kajwang230/Digital-Time) — another time-display project used for front-end practice.
-- [Readme](https://github.com/Kajwang230/Readme) — profile-readme practice and experimentation repository.
-
-### Project references requiring verification
-
-The following project references were identified from earlier profile content and public account activity but did not have a verified public repository URL available in the accessible GitHub record at the time of update.
-
-- Financial Tracking & Management System
-- Employee Self-Service Management System
-
-These items were preserved in the portfolio narrative without inventing a repository link.
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Graphic design](https://img.shields.io/badge/Graphic_Design-9B59B6?style=flat-square)
+![Digital content](https://img.shields.io/badge/Digital_Content_Creation-008C95?style=flat-square)
 
 ## Professional experience
 
-### AI Trainer — ClickWorker, Handshake AI, and Mercor AI
+*Role descriptions below reflect the positions shared in my profile and avoid unverified dates or quantified claims.*
 
-Worked on data labeling, annotation, and model-training support workflows. Responsibilities included reviewing datasets, annotating content for training tasks, maintaining quality, and supporting improved AI and ML data preparation activities.
+- **Founder — OGTech Designs and Channels** · Digital creative and entrepreneurial initiative.
+- **Digital Marketing Strategist and Creative Designer — Social Fly Global Marketing Agency** · Digital marketing and creative design role.
+- **Co-Partner — SmartBiz Solutions and Byte Technologies** · Entrepreneurial technology and digital-solutions initiatives.
+- **AI Trainer / Data Annotator — Clickworker, Handshake AI, Mercor AI and ThinkVoice AI** · AI training and data-annotation work.
+- **Content Review Associate — Capterra** · Content review role.
+- **ICT Intern — Maseno University** · ICT internship experience.
+- **Payroll Systems Specialist — Paramax Cleaning Services** · Payroll systems role.
 
-### Founder — OGTech Designs and Channels (Feb 2025–Present)
+## Digital platforms & initiatives
 
-Leads OGTech Designs and Channels with a focus on digital content creation, graphic design, brand presentation, and creative digital communication for businesses and personal brands.
+| Platform | Focus |
+| --- | --- |
+| [SmartBiz Solutions](https://smartbizsolutions.com/) | Business and digital solutions |
+| [Byte Technologies](https://bytestechnologies-drab.vercel.app/) | Technology initiative |
+| [Tuposite](http://tuposite.net/) | Digital commerce platform |
+| [SNR KJ Writers Company](https://snrkjwriters.wixsite.com/snr-kj-writers-compa) | Writing and content platform |
 
-### Digital Marketing Strategist & Creative Designer — Social Fly Global Marketing Agency (Feb 2026–Present)
+## Featured projects
 
-Supports digital campaigns, visual content, creative direction, and marketing strategy to enhance brand visibility, audience engagement, and online growth.
+These selections are based on the public repositories available on my profile. Project descriptions and technology labels are limited to what repository metadata and files support. I haven’t added external screenshots or unverified demo URLs.
 
-### Data Annotator — ThinkVoice AI
+### [Responsive-website-project](https://github.com/Kajwang230/Responsive-website-project)
+A responsive website project described in its repository as a Homeboyz Man webpage. Its public files include an HTML page, stylesheet, and JavaScript file.
 
-Contributed to data annotation work by preparing and reviewing labeled examples for AI and machine-learning workflows. The role emphasized accuracy, consistency, and quality control in data preparation.
+**Technologies:** HTML · CSS · JavaScript
 
-### Data Annotator — AI Speech & Language Model, ThinkVoice AI (Jul 2025–Sep 2025)
+### [MyResponsiveWebsite](https://github.com/Kajwang230/MyResponsiveWebsite)
+A responsive website project whose README describes a page designed for a range of screen sizes. The repository includes HTML pages and CSS stylesheets.
 
-Annotated speech and language dataset examples to support AI model training, with a focus on quality assurance, consistency, and accurate labeling workflows.
+**Technologies:** HTML · CSS
 
-### Co-Partner — SmartBiz Solutions & Byte Technologies
+### [Digital-clock](https://github.com/Kajwang230/Digital-clock)
+A browser-based digital clock project. The repository includes an HTML file with styling and a JavaScript timer that updates the displayed time.
 
-Collaborated on web application development, digital business support, e-commerce work, and technology solutions for small and medium-sized businesses. This work included front-end support, business technology planning, and digital product development.
+**Technologies:** HTML · CSS · JavaScript
 
-- Co-Partner, SmartBiz Solutions & Byte Technologies (Mar 2024–Present) — Co-developed Tuposite (tuposite.net)
+## GitHub activity
 
-### Content Review Associate — Capterra (Jun 2025–Present)
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Kajwang230&show_icons=true&hide_border=true&bg_color=0D1117&title_color=2DD4BF&text_color=E6EDF3&icon_color=2DD4BF" alt="GitHub statistics for Kajwang230" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kajwang230&layout=compact&hide_border=true&bg_color=0D1117&title_color=2DD4BF&text_color=E6EDF3" alt="Most-used languages on repositories for Kajwang230" />
+</div>
 
-Reviews and evaluates software and digital tools to support accurate, helpful, and user-focused content for technology discovery and decision-making.
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Kajwang230&theme=github-dark-blue&hide_border=true&ring=2DD4BF&fire=2DD4BF&currStreakLabel=2DD4BF" alt="GitHub contribution streak for Kajwang230" />
+</div>
 
-### ICT Intern — Maseno University (Jan 2024–Dec 2024)
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kajwang230&bg_color=0D1117&color=E6EDF3&line=2DD4BF&point=FFFFFF&area=true&hide_border=true" alt="Contribution activity graph for Kajwang230" />
+</div>
 
-Supported information and communication technology tasks, practical technical work, and digital systems support within a university environment.
+<sub>Statistics and activity visualizations are generated by third-party services and reflect the public GitHub account data those services can access.</sub>
 
-### Payroll Systems Specialist — Paramax Cleaning Services (KICC)
+## Connect
 
-Supported payroll processes through automated calculations, deduction handling, tax preparation, and reporting for employee remuneration. The work covered NSSF deductions, SHA contributions, tax calculations, and payroll records for operational accuracy.
+[![GitHub](https://img.shields.io/badge/GitHub-Kajwang230-181717?style=flat-square&logo=github)](https://github.com/Kajwang230)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patience-kajwang-b239a5253)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:kajwang230@gmail.com)
+[![Website](https://img.shields.io/badge/Website-SmartBiz-008C95?style=flat-square&logo=googlechrome&logoColor=white)](https://smartbizsolutions.com/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Message-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/254768201856)
 
-## Contributions and achievements
+<div align="center">
 
-- AI training and data annotation work through ClickWorker, Handshake AI, Mercor AI, and ThinkVoice AI.
-- Front-end and business technology support through SmartBiz Solutions and Byte Technologies.
-- Payroll automation and reporting support for Paramax Cleaning Services.
-- Personal practice and portfolio work focused on responsive websites, web interfaces, and practical front-end development.
-- Founder-led creative and digital content work through OGTech Designs and Channels.
-- Digital marketing and creative design support through Social Fly Global Marketing Agency.
+*Open to meaningful collaboration on software, AI, data, infrastructure, and digital solutions.*
 
-## Education
-
-- Bachelor of Science in Computer Science — Second Class Upper Division
-- B.Sc. Information & Communication Technology — Maseno University (Second Class Upper Division)
-
-### Certifications
-
-- Cisco IT Hardware
-- Cisco Network Security
-- Cisco Web Development
-- freeCodeCamp Responsive Web Design
-- freeCodeCamp JavaScript Algorithms
-
-## Contact information
-
-- Email: [kajwang230@gmail.com](mailto:kajwang230@gmail.com)
-- LinkedIn: [Patience Kajwang](https://www.linkedin.com/in/patience-kajwang-b239a5253)
-- GitHub: [Kajwang230](https://github.com/Kajwang230)
-- WhatsApp: [254768201856](https://wa.me/254768201856)
-- Portfolio: [SmartBiz Solutions](https://smartbizsolutions.com/)
-- Technology portfolio: [Byte Technologies](https://bytestechnologies-drab.vercel.app/)
-- E-commerce: [Tuposite](http://tuposite.net/)
-- Writing website: [SNR KJ Writers Company](https://snrkjwriters.wixsite.com/snr-kj-writers-compa)
-
-This profile keeps the original portfolio information, links, technical skills, and professional roles while restructuring the README into a clearer, more professional format.
-
+</div>
